@@ -1,0 +1,17 @@
+# 系统垃圾
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 密钥和配置，绝对不能提交
+.env
+*.key
+*.pem
+
+# 依赖和日志
+node_modules/
+*.log
+
+# 编辑器
+.vscode/
+.idea/
